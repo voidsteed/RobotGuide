@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RobotGuide</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="building_list">Building List</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="button_submit">Submit</string>
+    <string name="building_prompt">Choose a building</string>
+    <string name="method_prompt">Choose a method</string>
+
+    <string-array name="building_arrays">
+        <item>Feathering Hall</item>
+        <item>ISIS</item>
+        <item>Stevenson Center</item>
+    </string-array>
+    <string-array name="method_arrays">
+        <item>Button Map</item>
+        <item>Type In</item>
+    </string-array>
+
+    <string name="title_activity_display_button_map_activity">display_button_map_activity</string>
+    <string name="FGH2ndFloor">Feathering Hall 2nd floor</string>
+    <string name="title_activity_display_button_map">display_button_map_activity</string>
+    <string name="title_activity_display_activity_main">display202</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_name_list">NameListActivity</string>
+    <string name="type_in_text">If you know the person\'s name, list the name list button</string>
+    <string name="nameListButton">Name List</string>
+    <string name="title_activity_name_filter_list">NameFilterList</string>
+    <string name="some_text">FGH Second Floor</string>
+    <string name="some_hint">Type room number or name here&#8230;</string>
+    <string name="title_activity_map_overlay">MapOverlay</string>
+    <string name="dialog_message">Do you want to go this Room?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ip_address">Enter your ip address</string>
+    <string name="text_ip_address">Your IP Address</string>
+    <string name="enter">Enter</string>
+    <string name="cancel">Cancel</string>
+    
+</resources>

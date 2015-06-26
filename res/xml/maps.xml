@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maps xmlns:android="http://schemas.android.com/apk/res/android">
+    <map name="gridmap">
+        <area name="one" shape="rect" coords="118,124,219,226" id="@+id/area1001"/>
+        <area name="two" shape="rect" coords="474,374,574,476" id="@+id/area1002"/>        
+        <area name="four" shape="rect" coords="710,878,808,980" id="@+id/area1004"/>
+        <area name="red" shape="circle" coords="574,214,74" id="@+id/area1005"/>
+        <area name="blue" shape="poly" coords="250,780,250,951,405,951" id="@+id/area1006"/>
+        <area name="green" shape="poly" coords="592,502,592,730,808,730,808,502,709,502,709,603,690,603,690,502" id="@+id/area1007"/>
+    </map>
+    <map name="usamap">
+		<area shape="poly" coords="230,35,294,38,299,57,299,79,228,79" id="@+id/area1" name = "N. Dakota"/>
+		<area shape="poly" coords="227,80,299,80,302,120,282,116,226,116" id="@+id/area2" name = "S. Dakota"/>
+		<area shape="poly" coords="229,35,226,87,154,81,145,86,131,69,123,21" id="@+id/area3" name = "Montana"/>
+		<area shape="poly" coords="224,89,223,143,148,136,156,83" id="@+id/area4" name = "Wyoming"/>
+		<area shape="poly" coords="169,141,241,147,241,197,162,191" id="@+id/area5" name = "Colorado"/>
+		<area shape="poly" coords="112,20,121,20,132,87,152,87,149,119,94,111" id="@+id/area6" name = "Idaho"/>
+		<area shape="poly" coords="42,10,66,7,111,18,104,57,48,51,40,36" id="@+id/area7" name = "Washington"/>
+		<area shape="poly" coords="40,42,47,54,104,60,92,111,18,94" id="@+id/area8" name = "Oregon"/>
+		<area shape="poly" coords="57,106,120,118,101,206,49,147" id="@+id/area9" name = "Nevada"/>
+		<area shape="poly" coords="122,118,149,122,146,138,167,141,159,191,110,183" id="@+id/area10" name = "Utah"/>
+		<area shape="poly" coords="16,96,55,104,46,145,98,209,96,239,71,239,24,185" id="@+id/area11" name = "California"/>
+		<area shape="poly" coords="109,185,159,193,151,271,138,269,101,247,103,208" id="@+id/area12" name = "Arizona"/>
+		<area shape="poly" coords="226,117,301,122,315,159,244,160,243,145,225,142" id="@+id/area13" name = "Nebraska"/>
+		<area shape="poly" coords="243,162,318,162,325,172,325,196,244,196" id="@+id/area14" name = "Kansas"/>
+		<area shape="poly" coords="231,198,324,199,328,249,265,233,264,204,233,203" id="@+id/area15" name = "Oklahoma"/>
+		<area shape="poly" coords="162,193,229,199,226,269,164,267,160,271,152,270" id="@+id/area16" name = "New Mexico"/>
+		<area shape="poly" coords="230,204,262,205,264,236,332,253,338,300,275,355,224,308" id="@+id/area17" name = "Texas"/>
+		<area shape="poly" coords="293,38,317,35,359,49,341,70,337,94,352,107,302,111" id="@+id/area18" name = "Minnesota"/>
+		<area shape="poly" coords="342,68,358,66,395,87,390,118,364,122,352,102,339,93" id="@+id/area19" name = "Wisconsin"/>
+		<area shape="poly" coords="303,114,352,109,365,129,353,151,316,156" id="@+id/area20" name = "Iowa"/>
+		<area shape="poly" coords="316,158,353,154,382,196,378,207,373,202,329,206,327,171" id="@+id/area21" name = "Missouri"/>
+		<area shape="poly" coords="327,209,370,205,376,211,374,223,363,255,336,256,331,248" id="@+id/area22" name = "Arkansas"/>
+		<area shape="poly" coords="335,259,363,258,362,282,383,282,392,306,337,300,342,283" id="@+id/area23" name = "Louisiana"/>
+		<area shape="poly" coords="365,124,389,120,393,133,398,172,393,185,382,193,355,155" id="@+id/area24" name = "Illinois"/>
+		<area shape="poly" coords="359,68,379,58,423,64,454,116,398,131,394,85" id="@+id/area25" name = "Michigan"/>
+		<area shape="poly" coords="396,133,427,127,431,166,405,185,391,191,402,172" id="@+id/area26" name = "Indiana"/>
+		<area shape="poly" coords="386,193,409,186,435,163,456,167,463,178,450,190,386,201" id="@+id/area27" name = "Kentucky"/>
+		<area shape="poly" coords="383,203,468,190,466,196,445,211,376,224" id="@+id/area28" name = "Tennessee"/>
+		<area shape="poly" coords="374,227,401,222,403,284,387,288,384,280,362,282,369,263" id="@+id/area29" name = "Mississippi"/>
+		<area shape="poly" coords="402,221,432,217,444,254,442,273,412,275,414,283,406,283" id="@+id/area30" name = "Alabama"/>
+		<area shape="poly" coords="427,127,468,117,472,147,457,165,433,160" id="@+id/area31" name = "Ohio"/>
+		<area shape="poly" coords="473,148,485,147,487,154,506,145,483,173,469,179,458,168" id="@+id/area32" name = "W. Virginia"/>
+		<area shape="poly" coords="484,174,502,147,528,160,533,174,453,191,464,180,483,176" id="@+id/area33" name = "Virginia"/>
+		<area shape="poly" coords="470,189,534,176,542,188,513,218,496,206,480,206,449,212" id="@+id/area34" name = "N. Carolina"/>
+		<area shape="poly" coords="460,211,494,208,510,218,488,250,460,218" id="@+id/area35" name = "S. Carolina"/>
+		<area shape="poly" coords="433,217,457,214,487,252,483,269,477,273,445,274,445,254" id="@+id/area36" name = "Georgia"/>
+		<area shape="poly" coords="412,277,483,272,513,322,505,342,476,307,460,283,420,285" id="@+id/area37" name = "Florida"/>
+		<area shape="poly" coords="555,19,573,12,588,46,563,69,556,47" id="@+id/area38" name = "Maine"/>
+		<area shape="poly" coords="549,50,556,48,563,69,565,83,552,85" id="@+id/area39" name = "New Hampshire"/>
+		<area shape="poly" coords="537,59,549,55,549,84,545,85,541,75" id="@+id/area40" name = "Vermont"/>
+		<area shape="poly" coords="474,106,534,57,546,107,544,112,531,109,528,102,478,112" id="@+id/area41" name = "New York"/>
+		<area shape="poly" coords="469,116,474,109,478,115,527,105,533,125,526,134,477,146" id="@+id/area42" name = "Pennsylvania"/>
+		<area shape="poly" coords="544,87,565,85,576,85,576,94,566,91,547,96" id="@+id/area43" name = "Massachusetts"/>
+		<area shape="poly" coords="560,94,565,92,569,96,563,100" id="@+id/area44" name = "Rhode Island"/>
+		<area shape="poly" coords="546,97,560,94,562,101,548,105" id="@+id/area47" name = "Connecticut"/>
+		<area shape="poly" coords="532,111,545,113,544,120,542,142,529,135,535,124,530,117" id="@+id/area45" name = "New Jersey"/>
+		<area shape="poly" coords="531,139,540,153,534,153" id="@+id/area48" name = "Delaware"/>
+		<area shape="poly" coords="486,146,529,136,536,155,536,161,515,156,511,144" id="@+id/area46" name = "Maryland"/>
+	</map>
+	<map name="second_floor">
+		
+		<!-- Left Side -->
+		<area shape="rect" coords="0,1262,187,1355" id="@+id/area1" name = "240"/>
+		<area shape="rect" coords="0,1365,187,1485" id="@+id/area2" name = "238"/>
+		<area shape="rect" coords="0,1485,187,1610" id="@+id/area3" name = "236"/>
+		<area shape="rect" coords="0,1610,187,1724" id="@+id/area4" name = "234"/>
+		<area shape="rect" coords="0,1724,187,1850" id="@+id/area5" name = "232"/>
+		<area shape="rect" coords="0,1850,187,1972" id="@+id/area6" name = "230"/>
+		<area shape="rect" coords="0,1972,187,2095" id="@+id/area7" name = "228"/>
+		<area shape="rect" coords="0,2095,187,2217" id="@+id/area8" name = "226"/>
+		<area shape="rect" coords="0,2217,187,2318" id="@+id/area9" name = "224"/>
+		<area shape="rect" coords="245,2255,370,2322" id="@+id/area10" name = "222"/>
+		<area shape="rect" coords="245,2193,370,2255" id="@+id/area11" name = "220"/>
+		<area shape="rect" coords="245,2122,370,2193" id="@+id/area12" name = "218"/>
+		<area shape="rect" coords="245,2058,370,2115" id="@+id/area13" name = "216"/>
+		<area shape="rect" coords="245,1978,370,2050" id="@+id/area14" name = "214"/>
+		<area shape="rect" coords="245,1835,470,1985" id="@+id/area15" name = "212"/>
+		<area shape="rect" coords="245,1615,470,1788" id="@+id/area16" name = "211"/>
+		<area shape="rect" coords="245,1440,470,1610" id="@+id/area17" name = "244"/>
+		<area shape="rect" coords="190,1260,366,1310" id="@+id/area18" name = "241"/>
+		<area shape="rect" coords="375,1350,480,1440" id="@+id/area19" name = "239"/>
+		<!-- Top side -->
+		<area shape="rect" coords="600,1195,660,1310" id="@+id/area20" name = "247"/>
+		<area shape="rect" coords="660,1195,725,1310" id="@+id/area21" name = "248"/>
+		<area shape="rect" coords="725,1195,785,1310" id="@+id/area22" name = "249"/>
+		<area shape="rect" coords="785,1195,850,1310" id="@+id/area23" name = "250"/>
+		<area shape="rect" coords="850,1195,915,1310" id="@+id/area24" name = "251"/>
+		<area shape="rect" coords="915,1195,976,1310" id="@+id/area25" name = "253"/>
+		<area shape="rect" coords="1156,1195,1245,1310" id="@+id/area26" name = "255"/>
+		<area shape="rect" coords="1245,1195,1355,1310" id="@+id/area27" name = "257"/>
+		<!-- right side -->
+		<area shape="rect" coords="1520,0,1650,285" id="@+id/area28" name = "296"/>
+		<area shape="rect" coords="1520,285,1650,355" id="@+id/area29" name = "294"/>
+		<area shape="rect" coords="1520,355,1650,430" id="@+id/area30" name = "292"/>
+		<area shape="rect" coords="1520,430,1650,500" id="@+id/area31" name = "290"/>
+		<area shape="rect" coords="1520,500,1650,570" id="@+id/area32" name = "288"/>
+		<area shape="rect" coords="1520,645,1650,740" id="@+id/area33" name = "286"/>
+		<area shape="rect" coords="1520,745,1650,815" id="@+id/area34" name = "284"/>
+		<area shape="rect" coords="1520,815,1650,880" id="@+id/area35" name = "282"/>
+		<area shape="rect" coords="1520,880,1650,935" id="@+id/area36" name = "280"/>
+		<area shape="rect" coords="1520,935,1650,1005" id="@+id/area37" name = "278"/>
+		<area shape="rect" coords="1520,1005,1650,1065" id="@+id/area38" name = "276"/>
+		<area shape="rect" coords="1520,1065,1650,1123" id="@+id/area39" name = "274"/>
+		<area shape="rect" coords="1520,1123,1650,1195" id="@+id/area40" name = "272"/>
+		<area shape="rect" coords="1520,1345,1650,1485" id="@+id/area41" name = "260"/>
+		<area shape="rect" coords="1520,1540,1650,1655" id="@+id/area42" name = "264"/>
+		<area shape="rect" coords="1520,1658,1650,1785" id="@+id/area43" name = "262"/>
+		<area shape="rect" coords="1650,0,1850,205" id="@+id/area44" name = "298"/>
+		<area shape="rect" coords="1718,260,1850,355" id="@+id/area45" name = "299"/>
+		<area shape="rect" coords="1718,355,1850,428" id="@+id/area46" name = "297"/>
+		<area shape="rect" coords="1718,428,1850,497" id="@+id/area47" name = "295"/>
+		<area shape="rect" coords="1718,497,1850,575" id="@+id/area48" name = "293"/>
+		<area shape="rect" coords="1718,575,1850,670" id="@+id/area49" name = "291"/>
+		<area shape="rect" coords="1718,670,1850,740" id="@+id/area50" name = "289"/>
+		<area shape="rect" coords="1718,740,1850,835" id="@+id/area51" name = "287"/>
+		<area shape="rect" coords="1718,835,1850,910" id="@+id/area52" name = "285"/>
+		<area shape="rect" coords="1718,910,1850,970" id="@+id/area53" name = "283"/>
+		<area shape="rect" coords="1718,970,1850,1028" id="@+id/area54" name = "281"/>
+		<area shape="rect" coords="1718,1028,1850,1100" id="@+id/area55" name = "279"/>
+		<area shape="rect" coords="1718,1100,1850,1170" id="@+id/area56" name = "277"/>
+		<area shape="rect" coords="1718,1170,1850,1260" id="@+id/area57" name = "275"/>
+		<area shape="rect" coords="1718,1260,1850,1350" id="@+id/area58" name = "273"/>
+		<area shape="rect" coords="1718,1350,1850,1440" id="@+id/area59" name = "271"/>
+		<area shape="rect" coords="1718,1440,1850,1508" id="@+id/area60" name = "269"/>
+		<area shape="rect" coords="1718,1508,1850,1675" id="@+id/area61" name = "267"/>
+		<area shape="rect" coords="1718,1675,1850,1825" id="@+id/area62" name = "265"/>
+		<area shape="rect" coords="1655,1825,1845,1935" id="@+id/area63" name = "263"/>
+		<area shape="rect" coords="1515,1830,1650,1935" id="@+id/area64" name = "261"/>
+		<area shape="rect" coords="1350,1830,1515,1935" id="@+id/area65" name = "200"/>
+		
+		<!-- Bottom side -->
+		<area shape="rect" coords="470,1850,660,2005" id="@+id/area67" name = "210"/>
+		<area shape="rect" coords="660,1850,850,2005" id="@+id/area68" name = "208"/>
+		<area shape="rect" coords="850,1850,975,2005" id="@+id/area69" name = "206"/>
+		<area shape="rect" coords="975,1850,1165,2005" id="@+id/area70" name = "204"/>
+		<area shape="rect" coords="1165,1850,1350,2005" id="@+id/area71" name = "202"/>
+		
+		<!-- Middle -->
+		<area shape="rect" coords="590,1350,788,1475" id="@+id/area72" name = "246"/>
+		<area shape="rect" coords="788,1350,975,1475" id="@+id/area73" name = "252"/>
+		<area shape="rect" coords="975,1350,1165,1475" id="@+id/area74" name = "256"/>
+		<area shape="rect" coords="1165,1350,1360,1475" id="@+id/area75" name = "258"/>
+		<area shape="rect" coords="975,1480,1360,1600" id="@+id/area76" name = "201"/>
+		<area shape="rect" coords="590,1480,975,1600" id="@+id/area77" name = "203"/> <!-- Computer Lab -->
+		
+		<area shape="rect" coords="590,1670,720,1770" id="@+id/area78" name = "209"/>
+		<area shape="rect" coords="1030,1195,1090,1305" id="@+id/area79" name = "254"/>
+		<area shape="rect" coords="1525,1197,1650,1295" id="@+id/area80" name = "270"/>
+		
+	</map>
+</maps>
